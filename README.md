@@ -1346,8 +1346,6 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 * [Better Translation Manager](https://github.com/andersmelander/better-translation-manager). `[Delphi]` Translation Manager.
 
-* [PontoMonitor](https://github.com/andredrops/PontoMonitor). `[Delphi]` Open-source Windows time-tracking reminder app (VCL + FireDAC/SQLite). Sits in the system tray, alerts and auto-opens your company's clock-in tool at scheduled times, and keeps a local, editable mirror of worked hours with daily-goal tracking.
-
 * [dzBdsLauncher](https://osdn.net/projects/dzbdslauncher/). `[Delphi]` Launcher for the Delphi IDE that decides which of multiple IDEs to launch based on the suffix of the dproj file passed to it.
 
 * [DFMJSON](https://github.com/masonwheeler/DFMJSON). `[Delphi]` Library to convert between Delphi's .DFM (or .FMX) format and JSON. It can be used to parse a DFM file into an Abstract Syntax Tree in JSON, which can then be edited and the results turned back to DFM format.
@@ -1356,3 +1354,5 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 * [OpenAPI Client Generator](https://github.com/landgraf-dev/openapi-delphi-generator). `[Delphi]` Generate Delphi client SDKs for any REST API defined with the OpenAPI specification. This generator can read an OpenAPI document (from local file or URL) of a REST API and generate Delphi classes that you can use to invoke such REST API endpoints in a friendly way.
 // *Open source but requires commercial TMS BIZ library for build (trial version will do as well). Binaries are available*
+
+* [PontoMonitor](https://github.com/andredrops/PontoMonitor). `[Delphi]` Open-source Windows time-tracking reminder app (VCL + FireDAC/SQLite). Sits in the system tray, alerts and auto-opens your company's clock-in tool at scheduled times, and keeps a local, editable mirror of worked hours with daily-goal tracking.
